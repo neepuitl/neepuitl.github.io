@@ -1,23 +1,14 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       因特雷工作室
+email:       xijiz@qq.com
+author:      xijiz
+description: "因特雷工作室现主要学习、研究MIS系统和数据库开发，目的是通过开发各类项目，锻炼我们的同学，提高工作室的开发能力和水平，更好的为学校的教学工作服务。"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://neepuitl.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
-
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
 
 # Optional features
 animated:             false

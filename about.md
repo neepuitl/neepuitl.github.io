@@ -1,94 +1,21 @@
 ---
 layout: page
-title: About Pixyll
+title: 关于
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+因特雷工作室现主要学习、研究MIS系统和数据库开发，目的是通过开发各类项目，锻炼我们的同学，提高工作室的开发能力和水平，更好的为学校的教学工作服务。
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+## 概述
+1995年8月，结合专业发展趋势和人才培养特点的新发展，经过周密考虑，决定在自动控制系（现改名为自动化学院）范围内成立 “因特雷”智能技术研究室，制定了管理办法，确定方向及研究课题。东北电力学院自动控制系教师以科研项目为依托，在院领导、教务处、学工部、科研产业处、自动控制系及其系属实验室的大力支持，组织创建“因特雷”智能技术研究室，其宗旨是：“研究智能创新，开发智能成果，造就智能人才”。
 
-Thanks to the following:
+自95年成立以来，来自各专业的学子在此学习，经过几届师生的共同努力，因特雷工作室已经日益壮大起来，成为具有一定规模和实力的计算机工作室。现在工作室由教务处主管，主要负责全校的教学管理信息系统的管理、教学数据的处理、相关部门的网站建设，以及小型MIS系统、网站后台数据库开发等工作。工作室在几年里先后开发了学校的教学管理信息系统、学生网上选课系统、补考排考系统、网上报名系统等一批技术含量高、实用效果明显的项目。因特雷不但培养和造就了一批批素质高、能力强、具有“一实两创”特色的优秀人才，而且为学校的教学、科研、学生管理等部门实现管理手段的现代化，做出了积极的贡献。深得校领导和教务处领导的信赖、器重，以及全校师生的一致好评。
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+我们的宗旨是：“研究智能创新，开发智能成果，造就智能人才”。我们愿意为学校各部门无偿开发制作各类系统及网站。
 
-List of contributors:
+## 团队文化
+结合专业发展趋势和人才培养特点的新发展，“因特雷”工作室应运而生。自95年成立以来，来自各专业的学子在此学习，经过几届师生的共同努力，“因特雷”工作室已经日益壮大起来，成为具有一定规模和实力的计算机工作室。现在工作室由教务处主管，主要负责全校的教学管理信息系统的管理、教学数据的处理、相关部门的网站建设，以及小型MIS(管理信息系统--Management Information System)系统、网站后台数据库开发等工作。工作室在几年里先后开发了学校的教学管理信息系统、学生网上选课系统、补考排考系统、网上报名系统等一系列技术含量高、实用效果明显的项目。“因特雷”工作室现主要学习、研究MIS系统和数据库开发，我们的宗旨是：“研究智能创新，开发智能成果，造就智能人才”。我们希望能通过我们的努力，带动更多的同学学习计算机，学习计算机的技术，激发同学们学习计算机的热情。
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+## 定位
+因特雷工作室是东北电力大学成立较早的科技研发类的学生团体，是学生实现创新、创业精神的良好场所，同时也是东北电力大学“一实两创”精神的完美体现，近些年来，在教务处的领导下，因特雷通过为教务处提供更方便的信息化管理不断的成长壮大，同时在信息技术高速变革的今天，因特雷还有很多工作没有做好，还有更多的路要走，还有太多的知识要学习。
