@@ -24,10 +24,10 @@ Syntax highlighted code block
 
 更多详情请参考[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll主题
+工作室网站使用[pixyll](https://github.com/johno/pixyll)作为主题。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neepuitl/neepuitl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 帮助
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Github Pages文档](https://help.github.com/categories/github-pages-basics/)
+- [帮助支持](https://github.com/contact)
