@@ -7,9 +7,9 @@ baseurl:     ""
 url:         "https://neepuitl.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - team.md
  - works.md
+ - about.md
 
 # Optional features
 animated:             false
