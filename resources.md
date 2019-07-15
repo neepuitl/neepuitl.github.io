@@ -5,13 +5,10 @@ permalink: /resources/
 tags: 因特雷
 ---
 
-记录各种与计算机科学和设计相关的资源链接，以及工具。
+记录各种与计算机科学和设计相关的资源链接，以及工具。页面更新可能不及时，最新资源请访问因特雷官方仓库[Resources](https://github.com/neepuitl/Resources)。
 
 ## 工具
 - [快捷方式（1KB）病毒清理](https://github.com/neepuitl/1kb-Virus-Killer)
-
-## 资源
-页面更新可能不及时，最新资源请访问因特雷官方仓库[Resources](https://github.com/neepuitl/Resources)。
 
 ### 搜索引擎
 - [快搜](http://search.chongbuluo.com/)
