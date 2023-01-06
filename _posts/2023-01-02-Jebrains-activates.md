@@ -10,11 +10,11 @@ Jetbrains 激活分为账号激活、激活码和服务器激活三种，以前�
 ## 操作步骤
 ### ① 打开激活破解官方网站：https://search.censys.io/
 
-![这是图片](../assets/images/Jetbrains/1.jpg "censys")
+![image](../assets/images/Jetbrains/1.jpg "censys")
 
 ### ② 搜索框输入：services.http.response.headers.location:account.jetbrains.com/fls-auth
 
-![这是图片](../assets/images/Jetbrains/2.jpg "response")
+![image](../assets/images/Jetbrains/2.jpg "response")
 
 ### ③ 点击搜索，在返回的结果随便找一个点进去，查找到 HTTP/302 的ip
 
