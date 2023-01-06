@@ -6,7 +6,7 @@ summary: Jetbrains 激活分为账号激活、激活码和服务器激活三种�
 ---
 
 Jetbrains 激活分为账号激活、激活码和服务器激活三种，以前试过的激活码会失效，每次都要找好烦，如果你恰好需要类似的服务可以试试使用这个 2022 年最新Jetbrains 激活服务器，全部产品均可激活。
-
+# 方法一：服务器查找
 ## 操作步骤
 ### ① 打开激活破解官方网站：https://search.censys.io/
 
@@ -27,3 +27,5 @@ Jetbrains 激活分为账号激活、激活码和服务器激活三种，以前�
 ## ⑤ 如果发现服务器不可用，可以继续尝试更换一个进行激活。
 
 ![image](/assets/images/Jetbrains/5.jpg "done")
+
+# 服务器激活：直接输入  http://jetbrains-lic.novx.org  激活
